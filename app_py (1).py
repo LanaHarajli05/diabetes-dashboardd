@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1nh0t9-PVIWkN1ofpiMf3_CpM_zQUIi_T
 """
 
-!pip install streamlit pyngrok plotly
-
 from google.colab import drive
 import os
 
